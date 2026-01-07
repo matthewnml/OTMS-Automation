@@ -1,2 +1,2 @@
-# Treat TeX files as Python for GitHub Linguist language stats
-*.tex linguist-language=Python
+* linguist-vendored
+*.py linguist-vendored=false
